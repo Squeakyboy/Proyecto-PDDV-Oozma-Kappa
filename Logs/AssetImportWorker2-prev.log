@@ -1,0 +1,302 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.16f1 (d2c21f0ef2f1) revision 13812255'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit Core' Language: 'es' Physical Memory: 10116 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/User/Downloads/omar/omar
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+54685
+Successfully changed project path to: C:/Users/User/Downloads/omar/omar
+C:/Users/User/Downloads/omar/omar
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [27052] Host "[IP] 192.168.1.68 [Port] 0 [Flags] 2 [Guid] 1548157175 [EditorId] 1548157175 [Version] 1048832 [Id] WindowsEditor(7,Portatil) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [27052] Host "[IP] 192.168.1.68 [Port] 0 [Flags] 2 [Guid] 1548157175 [EditorId] 1548157175 [Version] 1048832 [Id] WindowsEditor(7,Portatil) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 3 workers.
+Refreshing native plugins compatible for Editor in 141.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.16f1 (d2c21f0ef2f1)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/User/Downloads/omar/omar/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Vega 3 Graphics (ID=0x15d8)
+    Vendor:   ATI
+    VRAM:     5058 MB
+    Driver:   27.20.11028.10001
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56332
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.186976 seconds.
+- Loaded All Assemblies, in 11.864 seconds
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  6.140 seconds
+Domain Reload Profiling: 17991ms
+	BeginReloadAssembly (2821ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (6ms)
+	RebuildCommonClasses (1125ms)
+	RebuildNativeTypeToScriptingClass (292ms)
+	initialDomainReloadingComplete (1146ms)
+	LoadAllAssembliesAndSetupDomain (6466ms)
+		LoadAssemblies (2676ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (6438ms)
+			TypeCache.Refresh (6431ms)
+				TypeCache.ScanAssembly (6142ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (6141ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (4930ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (430ms)
+			SetLoadedEditorAssemblies (72ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (35ms)
+			ProcessInitializeOnLoadAttributes (3747ms)
+			ProcessInitializeOnLoadMethodAttributes (646ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in 28.851 seconds
+Refreshing native plugins compatible for Editor in 58.25 ms, found 3 plugins.
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in 20.373 seconds
+Domain Reload Profiling: 49186ms
+	BeginReloadAssembly (7216ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (198ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (2031ms)
+	RebuildCommonClasses (535ms)
+	RebuildNativeTypeToScriptingClass (147ms)
+	initialDomainReloadingComplete (979ms)
+	LoadAllAssembliesAndSetupDomain (19929ms)
+		LoadAssemblies (16695ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (5732ms)
+			TypeCache.Refresh (4987ms)
+				TypeCache.ScanAssembly (4693ms)
+			ScanForSourceGeneratedMonoScriptInfo (525ms)
+			ResolveRequiredComponents (210ms)
+	FinalizeReload (20380ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (15998ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (208ms)
+			SetLoadedEditorAssemblies (116ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (1336ms)
+			ProcessInitializeOnLoadAttributes (11811ms)
+			ProcessInitializeOnLoadMethodAttributes (2361ms)
+			AfterProcessingInitializeOnLoad (164ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (158ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 1.10 seconds
+Refreshing native plugins compatible for Editor in 167.90 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5144 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 64 unused Assets / (349.8 KB). Loaded Objects now: 5611.
+Memory consumption went from 217.8 MB to 217.4 MB.
+Total: 86.785900 ms (FindLiveObjects: 3.950300 ms CreateObjectMapping: 2.660900 ms MarkObjects: 64.174900 ms  DeleteObjects: 15.997400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 4d1d7186bcbbfe361de5f0ad951e585c -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 171420.655712 seconds.
+  path: Assets/xddd/Materials/Niraj_Hair_Dark15.jpg
+  artifactKey: Guid(eb1d3f82372ecfe4daa08283f25a2226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/xddd/Materials/Niraj_Hair_Dark15.jpg using Guid(eb1d3f82372ecfe4daa08283f25a2226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c419bc75f9256f2684d308f95494db14') in 2.190770 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.025819 seconds.
+  path: Assets/xddd/Materials/Niraj_Hair_Dark2.jpg
+  artifactKey: Guid(6deea6625f93dff4a9d843407b146186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/xddd/Materials/Niraj_Hair_Dark2.jpg using Guid(6deea6625f93dff4a9d843407b146186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00636a6e57a84a450117b5c3cce87a60') in 1.363083 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.122090 seconds.
+  path: Assets/xddd/Materials/Niraj_Hair_Dark8.jpg
+  artifactKey: Guid(0965c3fda8f69d14cbbafe88c17f6d3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/xddd/Materials/Niraj_Hair_Dark8.jpg using Guid(0965c3fda8f69d14cbbafe88c17f6d3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abb0973c4ae3910f5a5be61444d959e2') in 0.272238 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.007406 seconds.
+  path: Assets/xddd/Materials/New Material.mat
+  artifactKey: Guid(c4e4dd624a64a1f4f801db8628ec1425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/xddd/Materials/New Material.mat using Guid(c4e4dd624a64a1f4f801db8628ec1425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '029aec39a070db4a1e43134da8398b26') in 5.867955 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.001754 seconds.
+  path: Assets/xddd/Materials/Niraj_Hair_Dark3.jpg
+  artifactKey: Guid(6b25e619e1fa29c41b2468324bd6d4bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/xddd/Materials/Niraj_Hair_Dark3.jpg using Guid(6b25e619e1fa29c41b2468324bd6d4bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '977173d78a0836e3b584bdd07f3ca5ba') in 0.261699 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/xddd/Materials/Niraj_Hair_Dark14.jpg
+  artifactKey: Guid(1fe77ea784bebc7479ec9afaecd89391) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/xddd/Materials/Niraj_Hair_Dark14.jpg using Guid(1fe77ea784bebc7479ec9afaecd89391) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9668961c4849ea6b14d2914740973066') in 0.210364 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000720 seconds.
+  path: Assets/xddd/Materials/Niraj_Hair_Dark6.jpg
+  artifactKey: Guid(e300ef3c195fe75449c1426792f8cb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/xddd/Materials/Niraj_Hair_Dark6.jpg using Guid(e300ef3c195fe75449c1426792f8cb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5861bb33b31a122ce5d5493f9b2614eb') in 0.274802 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.001099 seconds.
+  path: Assets/xddd/Materials/Niraj_Hair_Dark17.jpg
+  artifactKey: Guid(46759189fd9e31b4e91c66f81d3fdc3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/xddd/Materials/Niraj_Hair_Dark17.jpg using Guid(46759189fd9e31b4e91c66f81d3fdc3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93d2c7c451017f15be78e53c568e4552') in 0.418835 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/xddd/Materials/Niraj_Hair_Dark.jpg
+  artifactKey: Guid(ffc05d733f9bb424a8b3f9e03100c864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/xddd/Materials/Niraj_Hair_Dark.jpg using Guid(ffc05d733f9bb424a8b3f9e03100c864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ddd1ef865edba55faa7b9091ff1e667') in 0.403677 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000437 seconds.
+  path: Assets/xddd/Materials/New Material 1.mat
+  artifactKey: Guid(d3cc3333479b07e4fb0aee8a828c3f0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/xddd/Materials/New Material 1.mat using Guid(d3cc3333479b07e4fb0aee8a828c3f0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b88598b13c25a9bc88a135dacab2f76') in 0.212775 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.002484 seconds.
+  path: Assets/xddd/Materials/Niraj_Hair_Dark13.jpg
+  artifactKey: Guid(00c7af8a2f854e1459c2f8f274936cc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/xddd/Materials/Niraj_Hair_Dark13.jpg using Guid(00c7af8a2f854e1459c2f8f274936cc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5af95416ecef67a43a8d3713711fa003') in 0.158543 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000095 seconds.
+  path: Assets/xddd/Materials/Niraj_Hair_Dark12.jpg
+  artifactKey: Guid(996f6b18cf6e9c84fa7e4b057314843d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/xddd/Materials/Niraj_Hair_Dark12.jpg using Guid(996f6b18cf6e9c84fa7e4b057314843d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd715f3b1a20ed6f69dcd79ad5c3ce946') in 0.686580 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.001190 seconds.
+  path: Assets/xddd/Materials/lucia.jpg
+  artifactKey: Guid(a05f0c92a424dfc4c874cd837d2d877f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/xddd/Materials/lucia.jpg using Guid(a05f0c92a424dfc4c874cd837d2d877f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0697ce787c8e2c21df7adb33901ef2f0') in 1.219910 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000742 seconds.
+  path: Assets/xddd/Materials/New Material 4.mat
+  artifactKey: Guid(86666ddaf9a7aeb4da6963c3605c288f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/xddd/Materials/New Material 4.mat using Guid(86666ddaf9a7aeb4da6963c3605c288f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2331d4abcc0a41c43425fef88af61df') in 0.257674 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: La operación de E/S se anuló por una salida de subproceso o por una solicitud de aplicación.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

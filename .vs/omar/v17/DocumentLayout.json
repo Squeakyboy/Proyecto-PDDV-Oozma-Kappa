@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\omar\\omar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Downloads\\omar\\omar\\Assets\\bubblescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\bubblescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Downloads\\omar\\omar\\Assets\\Mapa y niveles\\Menus\\Shop\\Shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Mapa y niveles\\Menus\\Shop\\Shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Downloads\\omar\\omar\\Assets\\Mapa y niveles\\Menus\\ajustes\\ajustes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Mapa y niveles\\Menus\\ajustes\\ajustes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Downloads\\omar\\omar\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.9\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.9\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Downloads\\omar\\omar\\Assets\\HoverIdleEffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\HoverIdleEffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Downloads\\omar\\omar\\Assets\\shadercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\shadercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Downloads\\omar\\omar\\Assets\\OutlineShader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\OutlineShader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bubblescript.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\omar\\omar\\Assets\\bubblescript.cs",
+              "RelativeDocumentMoniker": "Assets\\bubblescript.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\omar\\omar\\Assets\\bubblescript.cs",
+              "RelativeToolTip": "Assets\\bubblescript.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:47:02.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\omar\\omar\\Assets\\Mapa y niveles\\Menus\\Shop\\Shop.cs",
+              "RelativeDocumentMoniker": "Assets\\Mapa y niveles\\Menus\\Shop\\Shop.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\omar\\omar\\Assets\\Mapa y niveles\\Menus\\Shop\\Shop.cs",
+              "RelativeToolTip": "Assets\\Mapa y niveles\\Menus\\Shop\\Shop.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:44:56.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HoverIdleEffect.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\omar\\omar\\Assets\\HoverIdleEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\HoverIdleEffect.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\omar\\omar\\Assets\\HoverIdleEffect.cs",
+              "RelativeToolTip": "Assets\\HoverIdleEffect.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAiwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T00:04:06.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "shadercontroller.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\omar\\omar\\Assets\\shadercontroller.cs",
+              "RelativeDocumentMoniker": "Assets\\shadercontroller.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\omar\\omar\\Assets\\shadercontroller.cs",
+              "RelativeToolTip": "Assets\\shadercontroller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T22:53:05.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OutlineShader.shader",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\omar\\omar\\Assets\\OutlineShader.shader",
+              "RelativeDocumentMoniker": "Assets\\OutlineShader.shader",
+              "ToolTip": "C:\\Users\\User\\Downloads\\omar\\omar\\Assets\\OutlineShader.shader",
+              "RelativeToolTip": "Assets\\OutlineShader.shader",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-16T22:51:39.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lit.shader",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\omar\\omar\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.9\\Shaders\\Lit.shader",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.9\\Shaders\\Lit.shader",
+              "ToolTip": "C:\\Users\\User\\Downloads\\omar\\omar\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.9\\Shaders\\Lit.shader",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.9\\Shaders\\Lit.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-16T22:49:16.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ajustes.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\omar\\omar\\Assets\\Mapa y niveles\\Menus\\ajustes\\ajustes.cs",
+              "RelativeDocumentMoniker": "Assets\\Mapa y niveles\\Menus\\ajustes\\ajustes.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\omar\\omar\\Assets\\Mapa y niveles\\Menus\\ajustes\\ajustes.cs",
+              "RelativeToolTip": "Assets\\Mapa y niveles\\Menus\\ajustes\\ajustes.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T21:02:57.983Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
