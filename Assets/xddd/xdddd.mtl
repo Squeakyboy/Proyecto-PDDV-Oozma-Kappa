@@ -1,0 +1,130 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl _Metal_Rusted_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.247059 0.231373 0.239216
+Ks 0.330000 0.330000 0.330000
+map_Kd xdddd/_Metal_Rusted_4.jpg
+
+newmtl _Metal_Steel_Textured_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.207843 0.207843 0.207843
+Ks 0.330000 0.330000 0.330000
+map_Kd xdddd/_Metal_Steel_Textured_4.jpg
+
+newmtl _Metal_Steel_Textured_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.305882 0.152941 0.152941
+Ks 0.330000 0.330000 0.330000
+map_Kd xdddd/_Metal_Steel_Textured_1.jpg
+
+newmtl _Metal_Aluminum_Anodized_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.270588 0.007843 0.007843
+Ks 0.330000 0.330000 0.330000
+map_Kd xdddd/_Metal_Aluminum_Anodized_1.jpg
+
+newmtl _Metal_Seamed_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.207843 0.164706 0.141176
+Ks 0.330000 0.330000 0.330000
+map_Kd xdddd/_Metal_Seamed_3.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl _Metal_Corrugated_Shiny_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.039216 0.027451 0.023529
+Ks 0.330000 0.330000 0.330000
+map_Kd xdddd/_Metal_Corrugated_Shiny_2.jpg
+
+newmtl _Aluminum_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.227451 0.176471 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd xdddd/_Aluminum_1.jpg
+
+newmtl _Metal_Steel_Textured_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.321569 0.219608 0.172549
+Ks 0.330000 0.330000 0.330000
+map_Kd xdddd/_Metal_Steel_Textured_2.jpg
+
+newmtl Brick_Basket
+Ka 0.000000 0.000000 0.000000
+Kd 0.121569 0.086275 0.074510
+Ks 0.330000 0.330000 0.330000
+map_Kd xdddd/Brick_Basket.jpg
+
+newmtl Metal_Corrugated_Shiny
+Ka 0.000000 0.000000 0.000000
+Kd 0.200000 0.160784 0.137255
+Ks 0.330000 0.330000 0.330000
+map_Kd xdddd/Metal_Corrugated_Shiny.jpg
+
+newmtl Stone_Masonry_Multi
+Ka 0.000000 0.000000 0.000000
+Kd 0.160784 0.113725 0.094118
+Ks 0.330000 0.330000 0.330000
+map_Kd xdddd/Stone_Masonry_Multi.jpg
+
+newmtl Cinder_Block
+Ka 0.000000 0.000000 0.000000
+Kd 0.062745 0.039216 0.054902
+Ks 0.330000 0.330000 0.330000
+map_Kd xdddd/Cinder_Block.jpg
+
+newmtl _Steel_Brushed_Stainless_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.145098 0.098039 0.074510
+Ks 0.330000 0.330000 0.330000
+map_Kd xdddd/_Steel_Brushed_Stainless_1.jpg
+
+newmtl _Rough_Square_Concrete_Block_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.207843 0.160784 0.149020
+Ks 0.330000 0.330000 0.330000
+map_Kd xdddd/_Rough_Square_Concrete_Block_1.jpg
+
+newmtl Metal_Rough
+Ka 0.000000 0.000000 0.000000
+Kd 0.172549 0.180392 0.184314
+Ks 0.330000 0.330000 0.330000
+map_Kd xdddd/Metal_Rough.jpg
+
+newmtl Brick_Antique_01
+Ka 0.000000 0.000000 0.000000
+Kd 0.231373 0.160784 0.129412
+Ks 0.330000 0.330000 0.330000
+map_Kd xdddd/Brick_Antique_01.jpg
+
+newmtl _Metal_Steel_Textured_White_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.137255 0.109804 0.098039
+Ks 0.330000 0.330000 0.330000
+map_Kd xdddd/_Metal_Steel_Textured_White_3.jpg
+
+newmtl _Metal_Steel_Textured_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.074510 0.054902 0.054902
+Ks 0.330000 0.330000 0.330000
+map_Kd xdddd/_Metal_Steel_Textured_3.jpg
+
+newmtl Concrete_Block_8x8_Gray
+Ka 0.000000 0.000000 0.000000
+Kd 0.125490 0.082353 0.062745
+Ks 0.330000 0.330000 0.330000
+map_Kd xdddd/Concrete_Block_8x8_Gray.jpg
+
+newmtl Translucent_Resin_Crush_Gray
+Ka 0.000000 0.000000 0.000000
+Kd 0.286275 0.286275 0.286275
+Ks 0.330000 0.330000 0.330000
+d 0.800000
+map_Kd xdddd/Translucent_Resin_Crush_Gray.jpg
+
